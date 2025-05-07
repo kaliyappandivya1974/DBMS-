@@ -1,0 +1,7 @@
+<!docttype doctorinfo[
+<!element doctorinfo (doctor*)> 
+<!element doctor(doctor_id,doctor_name,specialization)>
+<!element doctor_id(#PCDATA)>
+<!element doctor_name(#PCDATA)>
+<!element specialization (#PCDATA)>
+]>

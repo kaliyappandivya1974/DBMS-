@@ -1,0 +1,26 @@
+<XML>
+<doctordetail>
+<doctorinfo>
+
+<doctor _id> AK doc01 </doctor _id>
+<doctor _name> diya </doctor _name>
+<specialization> cardiologist </specialization>
+
+</doctorinfo>
+<doctorinfo>
+
+<doctor _id> AK doc07 </doctor _id>
+<doctor _name> ram </doctor _name>
+<specialization> cardiologist </specialization>
+
+</doctorinfo>
+<doctorinfo>
+
+<doctor _id> AK doc05 </doctor _id>
+<doctor _name> maya </doctor _name>
+<specialization> cardiologist </specialization>
+
+</doctorinfo>
+</doctordetail>
+</XML>
+
